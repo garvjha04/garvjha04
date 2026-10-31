@@ -22,7 +22,7 @@ I'm a finance professional building toward a career in Financial Analysis / FP&A
 
 **🛠️** **Tools & Software I Work With:**
 
-Advanced Excel|Power BI|Python
+Advanced Excel | Power BI | Python
 
 **📫 Let's Connect** : 
 www.linkedin.com/in/garv-jha
