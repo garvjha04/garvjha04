@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Early-career Financial Analyst | Financial Modeling & Data-Driven Decision Making
+**Early-career Financial Analyst | Financial Modeling & Data-Driven Decision Making**
 
 **🎯** **About Me**
-
 I'm a finance professional building toward a career in Financial Analysis / FP&A, I hold a BBA in Finance and have worked as an MIS Executive, where I built the habit of structured, accuracy-first reporting.
 
 **🛠️** **Tools & Software I Work With:**
