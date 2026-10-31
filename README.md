@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Early-career Financial Analyst | Financial Modeling & Data-Driven Decision Making**
+**My name is Garv, Early-career Financial Analyst**
 
 **🎯** **About Me**
 
